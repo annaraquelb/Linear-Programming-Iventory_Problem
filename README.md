@@ -1,0 +1,2 @@
+# Linear-Programming-Iventory_Problem
+example 3.6-1 Operations Research An Introduction by Hamdy A. Taha  JOBCO manufactures two products on two machines. A unit of product 1 requires 2 hrs on machine 1 and 1 hr on machine 2. For product 2, one unit requires 1 hr on machine 1 and 3 hrs on machine 2. The revenues per unit of products 1 and 2 are $30 and $20, respectively. The total daily processing time available for each machine is 8 hrs. Letting x1 and x2 represent the daily number of units of products 1 and 2, respectively.
